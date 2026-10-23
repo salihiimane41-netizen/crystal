@@ -63,6 +63,8 @@ For a custom domain that serves the website at `/`, build with `NEXT_PUBLIC_BASE
 
 An optional `.github/workflows/publish-pages.yml` builds and deploys from source through GitHub Actions. Use that only if you choose **GitHub Actions** as the Pages source, instead of the branch publishing steps above. The ready-made `/docs` deployment requires no workflow or dependency installation.
 
+GitHub shows manually runnable workflows only after the workflow file exists on the default branch. For this optional method, also copy that workflow file to `main`, open **Actions → Publish GitHub Pages → Run workflow**, and select **github-pages** in the branch dropdown so the job builds the complete source. Publishing from `/docs` avoids these extra steps.
+
 ## Existing content behavior
 
 The menu, gallery dialogs, mobile navigation, mood matching, pass downloads, and visit simulation work in the browser. Spotify playlist links remain unconfigured as in the original site; see `SPOTIFY_SETUP.md` to connect real playlists. The visit form remains a clearly labeled local simulation. Hosting does not turn it into a booking service.

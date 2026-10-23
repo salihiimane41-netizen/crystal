@@ -1,0 +1,18 @@
+{
+  "main": {
+    "url": null,
+    "direction": "Confident pop, energetic hip-hop, upbeat international and Arabic tracks."
+  },
+  "heart": {
+    "url": null,
+    "direction": "Arabic heartbreak, emotional Lebanese and Moroccan songs."
+  },
+  "chaotic": {
+    "url": null,
+    "direction": "High-energy Moroccan rap, dance, and party music."
+  },
+  "chill": {
+    "url": null,
+    "direction": "Relaxed Arabic indie, lo-fi, and mellow late-night music."
+  }
+}

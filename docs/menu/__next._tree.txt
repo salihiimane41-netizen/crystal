@@ -1,0 +1,5 @@
+:HL["/crystal/_next/static/chunks/14z8-tjwo__76.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"menu","h":96,"c":"$Q2"}]]
+0:{"b":"7ZiZ21fxpl-IYpcCrneEH","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
